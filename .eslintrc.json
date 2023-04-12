@@ -1,4 +1,7 @@
 {
+	"rules": {
+		"@typescript-eslint/prefer-nullish-coalescing": "error"
+	},
 	"extends": "standard-with-typescript",
 	"parserOptions": {
 		"project": "./tsconfig.json"
